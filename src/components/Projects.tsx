@@ -5,11 +5,11 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "MYDoctor.uz",
       description: "A full-featured e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.",
       image: "/placeholder.svg",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      liveUrl: "#",
+      liveUrl: "https://mydoctoruz.netlify.app/",
       githubUrl: "#"
     },
     {
